@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_login">Imototaxi</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Qual seu usuario?</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+
+    <string name="error_field_required">This field is required</string>
+</resources>
